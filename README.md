@@ -3,12 +3,6 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/palakurthi-sai-bharadwaja-14462b304) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saibharadwaja1906@gmail.com) 
-# 💫 About Me:
-👋 Hey there! I'm a curious developer who loves turning ideas into code. I enjoy exploring new tech, building useful things, and learning as I go. Currently diving deeper into web development and open source — always open to learning something new or collaborating on cool projects.<br><br>When I'm not coding, you'll probably find me reading, tinkering with my setup, or just getting lost in thought about how things work.<br><br>Thanks for stopping by! Feel free to check out my work or reach out 🤝
-
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/palakurthi-sai-bharadwaja-14462b304)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saibharadwaja1906@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23d16c06.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/nLdLxn0Qtp/)
