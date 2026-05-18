@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/palakurthi-sai-bharadwaja-14462b304)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saibharadwaja1906@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23d16c06.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/nLdLxn0Qtp/)
-[![Profile Views](https://visitcount.itsvg.in/api?id=SaiBharadwaja570&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -76,20 +75,6 @@ Currently grinding as a **Full Stack Intern @ Stealth AI Startup**, where I'm sh
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=SaiBharadwaja570&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=SaiBharadwaja570&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiBharadwaja570&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
 
 ---
 
